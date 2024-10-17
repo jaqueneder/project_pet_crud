@@ -1,6 +1,7 @@
 # Projeto Pet CRUD 
 Projeto de um sistema CRUD (Create, Read, Update, Delete) desenvolvido em PHP para gerenciamento de produtos em estoque. 
-Funcionalidades:
+
+#### Funcionalidades:
 - Cadastro de usuários
 - Login
 - Logout
